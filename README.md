@@ -14,7 +14,7 @@ The purpose of this task is to:
 # Datasource :
 Dataset used for this task was presented by Pwc and customer churn Retention dataset:
 
-Dataset: Customer Churn Retention
+Dataset: [Customer Churn Retention](https://github.com/upenc/Customer-Churn-Retension-dashboard/blob/main/02%20Churn-Dataset.xlsx)
 
 # Data Preparation:
 Completed the Data transformation in Power Query and the dataset loaded into Microsoft Power BI Desktop for modeling.
@@ -61,9 +61,13 @@ Measures used in all visualization are:
 
 
 # Data Visualization (Dashboard):
+![Customer Churn Retention](https://github.com/upenc/Customer-Churn-Retension-dashboard/blob/main/Home%26KPI.JPG)
+![Dashboard](https://github.com/upenc/Customer-Churn-Retension-dashboard/blob/main/Dashboard.JPG)
+![Risk Analysis](https://github.com/upenc/Customer-Churn-Retension-dashboard/blob/main/Risk_Analysis.JPG)
 
 # Insights:
 As shown the data Visualization, It can be deduced that:
+![Insights](https://github.com/upenc/Customer-Churn-Retension-dashboard/blob/main/Insight.JPG)
 
 - Customers on the Two-Year contract, have been with the company for long, while most of the customers on Month-to-Month contract joined the company.
 - 7043 customers are at the risk of churn. and The churn rate is 27%.
